@@ -1,0 +1,3 @@
+fastapi     # Web framework for API
+uvicorn     # ASGI server to run FastAPI
+python-multipart # For handling file uploads
